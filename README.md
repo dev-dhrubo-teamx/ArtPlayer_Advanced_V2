@@ -2,49 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>Secure Tokenized Video Streaming with Artplayer</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<style>
-body {
-    font-family: Arial, sans-serif;
-    max-width: 900px;
-    margin: auto;
-    padding: 40px 20px;
-    line-height: 1.6;
-    background: #0f172a;
-    color: #f1f5f9;
-}
-h1, h2, h3 {
-    color: #38bdf8;
-}
-code {
-    background: #1e293b;
-    padding: 3px 6px;
-    border-radius: 5px;
-    font-size: 14px;
-}
-pre {
-    background: #1e293b;
-    padding: 15px;
-    overflow-x: auto;
-    border-radius: 8px;
-}
-a {
-    color: #38bdf8;
-}
-.section {
-    margin-bottom: 40px;
-}
-.badge {
-    display: inline-block;
-    padding: 6px 12px;
-    background: #22d3ee;
-    color: #000;
-    border-radius: 20px;
-    font-size: 12px;
-    margin-right: 8px;
-}
-</style>
 </head>
 <body>
 
